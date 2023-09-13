@@ -1,0 +1,675 @@
+{
+    "status": 200,
+    "message": "Product list retrieved successfully",
+    "data": {
+        "total_results": 9921,
+        "total_results_per_page": 12,
+        "total_pages": 827,
+        "page": "0",
+        "type": "listAllProducts",
+        "items": [
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a30782b",
+                    "brand": "Acer",
+                    "model": "Acer Allegro",
+                    "version": "M310",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/d539a8dc-3a54-4f9b-b004-3a0de1bab977_front.jpeg",
+                    "back": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/6a5b7772-e3aa-416f-9007-5d1d4d45b785_back.jpg"
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a307b98",
+                    "brand": "Acer",
+                    "model": "Acer beTouch E100",
+                    "version": "E100",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/2ad3e9e2-2bfb-4ef6-ad93-0bfb11fbf490_frontback.jpg",
+                    "back": null
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a307b30",
+                    "brand": "Acer",
+                    "model": "Acer beTouch E101",
+                    "version": "E101",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/c71d781f-d555-40e6-8d46-fea51457f32a_frontback.jpg",
+                    "back": null
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a307aac",
+                    "brand": "Acer",
+                    "model": "Acer beTouch E110",
+                    "version": "E110",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/01_front.jpg",
+                    "back": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/02_back.jpg"
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a307a25",
+                    "brand": "Acer",
+                    "model": "Acer beTouch E120",
+                    "version": "E120",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/81a913ff-1677-4a7b-9b7c-13f1772a7128_front.jpg",
+                    "back": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/4c80b171-f721-45e1-a816-b0b85aef02c2_back.png"
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a307a10",
+                    "brand": "Acer",
+                    "model": "Acer beTouch E130",
+                    "version": "E130",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/a06286bb-4617-4893-af41-5355ed9bf8b1_front.jpg",
+                    "back": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/38d7335a-43f7-4809-b598-85569a29f1f4_back.png"
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a30796b",
+                    "brand": "Acer",
+                    "model": "Acer beTouch E140",
+                    "version": "E140",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/d1eff942-12aa-4815-b989-c72b21e9b569_front.png",
+                    "back": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/dd3dfeb7-090b-430b-9bbf-46aa7ef9a17c_back.png"
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a307b97",
+                    "brand": "Acer",
+                    "model": "Acer beTouch E200",
+                    "version": "E200",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/2666fefd-79a7-4b34-b4b6-291bcb89c7c4_front.jpg",
+                    "back": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/205bc7b6-f8b2-4f3e-a7d2-663bc2662e2b_back.jpg"
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a307949",
+                    "brand": "Acer",
+                    "model": "Acer beTouch E210",
+                    "version": "E210",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/c55d46f4-0215-4d17-af19-e3a3e0fa86f4_front.jpg",
+                    "back": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/8a30acba-33b2-44e9-b260-85ebee26e76a_back.jpg"
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a307a8a",
+                    "brand": "Acer",
+                    "model": "Acer beTouch E400",
+                    "version": "E400",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/8f195e22-cf01-4614-8a43-feaaf424b437_frontback.jpg",
+                    "back": null
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a30773f",
+                    "brand": "Acer",
+                    "model": "Acer CloudMobile",
+                    "version": "S500",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/4afa0f99-6801-4f61-a378-075cb7ad4aff_frontback.jpg",
+                    "back": null
+                }
+            },
+            {
+                "product": {
+                    "id": "63e96260ff7af4b68a307c0d",
+                    "brand": "Acer",
+                    "model": "Acer DX650",
+                    "version": "DX650",
+                    "category": "Smartphones"
+                },
+                "image": {
+                    "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/04a659a5-2db6-433e-af25-31362f77902c_front.jpg",
+                    "back": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/6fb721c5-484e-471f-bc7d-2169e93854f4_back.png"
+                }
+            }
+        ]
+    }
+}
+
+[
+    {
+        "brandValue": "Acer"
+    },
+    {
+        "brandValue": "alcatel"
+    },
+    {
+        "brandValue": "Allview"
+    },
+    {
+        "brandValue": "Amazon"
+    },
+    {
+        "brandValue": "Amoi"
+    },
+    {
+        "brandValue": "Apple"
+    },
+    {
+        "brandValue": "Archos"
+    },
+    {
+        "brandValue": "Asus"
+    },
+    {
+        "brandValue": "AT&T"
+    },
+    {
+        "brandValue": "Benefon"
+    },
+    {
+        "brandValue": "BenQ"
+    },
+    {
+        "brandValue": "BenQ-Siemens"
+    },
+    {
+        "brandValue": "Bird"
+    },
+    {
+        "brandValue": "BlackBerry"
+    },
+    {
+        "brandValue": "Blackview"
+    },
+    {
+        "brandValue": "BLU"
+    },
+    {
+        "brandValue": "Bosch"
+    },
+    {
+        "brandValue": "BQ"
+    },
+    {
+        "brandValue": "Casio"
+    },
+    {
+        "brandValue": "Cat"
+    },
+    {
+        "brandValue": "Celkon"
+    },
+    {
+        "brandValue": "Chea"
+    },
+    {
+        "brandValue": "Coolpad"
+    },
+    {
+        "brandValue": "Dell"
+    },
+    {
+        "brandValue": "Doogee"
+    },
+    {
+        "brandValue": "Emporia"
+    },
+    {
+        "brandValue": "Energizer"
+    },
+    {
+        "brandValue": "Ericsson"
+    },
+    {
+        "brandValue": "Eten"
+    },
+    {
+        "brandValue": "Fairphone"
+    },
+    {
+        "brandValue": "Fujitsu"
+    },
+    {
+        "brandValue": "Garmin-Asus"
+    },
+    {
+        "brandValue": "Gigabyte"
+    },
+    {
+        "brandValue": "Gionee"
+    },
+    {
+        "brandValue": "Google"
+    },
+    {
+        "brandValue": "Haier"
+    },
+    {
+        "brandValue": "Honor"
+    },
+    {
+        "brandValue": "HP"
+    },
+    {
+        "brandValue": "HTC"
+    },
+    {
+        "brandValue": "Huawei"
+    },
+    {
+        "brandValue": "i-mate"
+    },
+    {
+        "brandValue": "i-mobile"
+    },
+    {
+        "brandValue": "Icemobile"
+    },
+    {
+        "brandValue": "Infinix"
+    },
+    {
+        "brandValue": "Innostream"
+    },
+    {
+        "brandValue": "iNQ"
+    },
+    {
+        "brandValue": "Intex"
+    },
+    {
+        "brandValue": "Jolla"
+    },
+    {
+        "brandValue": "Karbonn"
+    },
+    {
+        "brandValue": "Kyocera"
+    },
+    {
+        "brandValue": "Lava"
+    },
+    {
+        "brandValue": "LeEco"
+    },
+    {
+        "brandValue": "Lenovo"
+    },
+    {
+        "brandValue": "LG"
+    },
+    {
+        "brandValue": "Maxon"
+    },
+    {
+        "brandValue": "Maxwest"
+    },
+    {
+        "brandValue": "Meizu"
+    },
+    {
+        "brandValue": "Micromax"
+    },
+    {
+        "brandValue": "Microsoft"
+    },
+    {
+        "brandValue": "Mitac"
+    },
+    {
+        "brandValue": "Mitsubishi"
+    },
+    {
+        "brandValue": "Modu"
+    },
+    {
+        "brandValue": "Motorola"
+    },
+    {
+        "brandValue": "MWg"
+    },
+    {
+        "brandValue": "NEC"
+    },
+    {
+        "brandValue": "Neonode"
+    },
+    {
+        "brandValue": "NIU"
+    },
+    {
+        "brandValue": "Nokia"
+    },
+    {
+        "brandValue": "Nothing"
+    },
+    {
+        "brandValue": "Nvidia"
+    },
+    {
+        "brandValue": "O2"
+    },
+    {
+        "brandValue": "OnePlus"
+    },
+    {
+        "brandValue": "Oppo"
+    },
+    {
+        "brandValue": "Orange"
+    },
+    {
+        "brandValue": "Palm"
+    },
+    {
+        "brandValue": "Panasonic"
+    },
+    {
+        "brandValue": "Pantech"
+    },
+    {
+        "brandValue": "Parla"
+    },
+    {
+        "brandValue": "Philips"
+    },
+    {
+        "brandValue": "Plum"
+    },
+    {
+        "brandValue": "Posh"
+    },
+    {
+        "brandValue": "Prestigio"
+    },
+    {
+        "brandValue": "QMobile"
+    },
+    {
+        "brandValue": "Qtek"
+    },
+    {
+        "brandValue": "Razer"
+    },
+    {
+        "brandValue": "Realme"
+    },
+    {
+        "brandValue": "Sagem"
+    },
+    {
+        "brandValue": "Samsung"
+    },
+    {
+        "brandValue": "Sendo"
+    },
+    {
+        "brandValue": "Sewon"
+    },
+    {
+        "brandValue": "Sharp"
+    },
+    {
+        "brandValue": "Siemens"
+    },
+    {
+        "brandValue": "Sonim"
+    },
+    {
+        "brandValue": "Sony"
+    },
+    {
+        "brandValue": "Spice"
+    },
+    {
+        "brandValue": "T-Mobile"
+    },
+    {
+        "brandValue": "TCL"
+    },
+    {
+        "brandValue": "Tecno"
+    },
+    {
+        "brandValue": "Tel.Me."
+    },
+    {
+        "brandValue": "Telit"
+    },
+    {
+        "brandValue": "Thuraya"
+    },
+    {
+        "brandValue": "Toshiba"
+    },
+    {
+        "brandValue": "Ulefone"
+    },
+    {
+        "brandValue": "Unnecto"
+    },
+    {
+        "brandValue": "Vertu"
+    },
+    {
+        "brandValue": "verykool"
+    },
+    {
+        "brandValue": "vivo"
+    },
+    {
+        "brandValue": "VK"
+    },
+    {
+        "brandValue": "Vodafone"
+    },
+    {
+        "brandValue": "Wiko"
+    },
+    {
+        "brandValue": "WND"
+    },
+    {
+        "brandValue": "XCute"
+    },
+    {
+        "brandValue": "Xiaomi"
+    },
+    {
+        "brandValue": "XOLO"
+    },
+    {
+        "brandValue": "Yezz"
+    },
+    {
+        "brandValue": "Yota"
+    },
+    {
+        "brandValue": "YU"
+    },
+    {
+        "brandValue": "ZTE"
+    }
+]
+
+{
+    "status": 200,
+    "message": "Product details retrieved successfully",
+    "data": {
+      "type": "detail",
+      "language": "en",
+      "items": [
+        {
+          "product": {
+            "brand": "Acer",
+            "manufacturer": "Acer",
+            "model": "Acer beTouch E100",
+            "version": "E100",
+            "category": "Smartphones",
+            "alias": "Acer C1",
+            "id": "63e96260ff7af4b68a307b98"
+          },
+          "key_aspects": {
+            "msrp": "189 USD",
+            "release_date": "2009-10-01",
+            "color_options": "Black, White",
+            "camera": "1.9 MP main back camera",
+            "os": "Windows Mobile, Microsoft Windows Mobile 6.5 Professional (Titanium), AKU 5.0.0",
+            "processor": "Qualcomm MSM7225",
+            "ram": "256 MB",
+            "storage": "512 MB",
+            "additional_features": "Navigation software, GPS"
+          },
+          "image": {
+            "front": "https://i-techspecs-io.s3.us-west-1.amazonaws.com/2ad3e9e2-2bfb-4ef6-ad93-0bfb11fbf490_frontback.jpg"
+          },
+          "date": {
+            "released": "2009-10-01"
+          },
+          "price": {
+            "msrp": "189 USD"
+          },
+          "design": {
+            "body": {
+              "height": "113 mm, 4.45 inch",
+              "width": "56 mm, 2.2 inch",
+              "weight": "118 g, 4.16 ounces",
+              "thickness": "12.85 mm, 0.51 inches",
+              "color": "Black, White"
+            },
+            "peripheral": {
+              "peripheral": " D Pad, Optical trackpad"
+            }
+          },
+          "display": {
+            "diagonal": "82 mm, 3.2 inch",
+            "resolution_(h_x_w)": "240x400",
+            "pixel_density": "144 PPI",
+            "width": "42.19 mm, 1.66 inch",
+            "height": "70.31 mm, 2.77 inch",
+            "illumination": "The data will be added shortly",
+            "pixel_size": "0.17579 mm/pixel",
+            "color_depth": "16 bit",
+            "subpixels": "RGB Matrix (3 subpixels)",
+            "number_of_colors": "65536",
+            "screen_to_body_ratio": "46.9%",
+            "bezel_width": "13.81 mm, 0.54 inch(es)",
+            "lcd_mode": "transflective",
+            "touchpoints": "1",
+            "glass": "The data will be added shortly",
+            "touch_screen_type": "Resistive"
+          },
+          "camera": {
+            "back_camera": {
+              "resolution": "1.9 MP",
+              "resolution_(h_x_w)": "1600x1200 pixel",
+              "video_format": "3GP, MPEG4",
+              "video_resolution": "320x240 pixel",
+              "image_format": "JPG",
+              "zoom": "1.0 x optical zoom",
+              "sensor": "CMOS"
+            },
+            "front_camera": {
+              "video_format": "3GP, MPEG4",
+              "image_format": "JPG"
+            }
+          },
+          "inside": {
+            "software": {
+              "os": "Windows Mobile",
+              "kernel_version": "5.2.21215",
+              "os_version": "Microsoft Windows Mobile 6.5 Professional (Titanium), AKU 5.0.0",
+              "additional_features": "Navigation software"
+            },
+            "processor": {
+              "cpu": "Qualcomm MSM7225",
+              "cpu_clock_speed": "528 MHz",
+              "gpu": "N/A"
+            },
+            "ram": {
+              "type": "SDRAM",
+              "capacity": "256 MB"
+            },
+            "storage": {
+              "type": "Flash EEPROM",
+              "capacity": "512 MB",
+              "expansion": "SDIO, TransFlash, MicroSD, MicroSDHC"
+            },
+            "audio": {
+              "adc_resolution": "16 bit",
+              "adc_frequency": "44100 Hz",
+              "dac_frequency": "44100 Hz",
+              "dac_resolution": "16 bit",
+              "channel": "stereo",
+              "output": "Mini USB (Type B)",
+              "microphone": "mono"
+            },
+            "cellular": {
+              "sim_slot": "Mini-SIM (2FF)",
+              "sim_frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 900MHz (Band VIII) bands",
+              "sim_mobile_data": "CSD 9.6 kbps, GPRS (Class unspecified), GPRS Class 10, EDGE (Class unspecified), EDGE Multi-slot Class 11, UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSDPA 7.2 Mbps (Cat. 8) data links",
+              "generation": "3G",
+              "sim_type": "Single"
+            },
+            "wireless": {
+              "bluetooth_version": " 2.0 + Enhanced Data Rate",
+              "bluetooth_profiles": "A2DP, AVRCP",
+              "experiences": "FM Radio"
+            },
+            "battery": {
+              "type": "Lithium-ion — 1 cell",
+              "cell_i": "1140 mAh",
+              "capacity": "1140 mAh",
+              "style": "Removable"
+            },
+            "location": {
+              "chip": "Qualcomm MSM7225 gpsOne",
+              "additional_features": "GPS"
+            }
+          },
+          "No": {
+            "WiFi": "Wireless LAN",
+            "Focus": "",
+            "Flash": "Camera Flash",
+            "Sensor": "Front Camera",
+            "AV_Out": "AV Out",
+            "SIM_II_Frequencies": "Dual SIM",
+            "_Accelerometer": " Accelerometer"
+          }
+        }
+      ]
+    }
+  }
