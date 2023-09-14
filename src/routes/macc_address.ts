@@ -1,16 +1,11 @@
 import { Router } from "express";
-import getMac from "getmac";
 
 const maccAddress = Router();
 
 maccAddress.get("/mac_address", async (req, res) => {
   try {
-    let maccAddress = getMac();
-
-    let text = `mac_address: ${maccAddress}`;
-
     res.json({
-      maccAddress,
+      maccAddress: "You missed out!!",
     });
   } catch (error) {
     console.log(error);
